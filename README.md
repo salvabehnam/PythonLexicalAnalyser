@@ -19,4 +19,3 @@ This project implements a **lexical analyzer** in Python that utilizes **regular
 
 - **Python**: Core programming language for the lexical analyzer.
 - **Regular Expressions**: Utilized for pattern matching and tokenization.
-
