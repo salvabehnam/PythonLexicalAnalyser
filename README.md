@@ -1,7 +1,7 @@
 # 🐍 Python Lexical Analyzer
 
 This project implements a **lexical analyzer** in Python that utilizes **regular expressions** to tokenize source code into components such as identifiers, keywords, operators, and more. It's designed to serve as a foundational element for building compilers or interpreters.
-
+ 
 ## 📌 Features
 
 - **Tokenization**: Breaks down source code into fundamental tokens.
